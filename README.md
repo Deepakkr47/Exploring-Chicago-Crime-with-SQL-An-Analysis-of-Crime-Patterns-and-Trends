@@ -1,0 +1,2 @@
+# Exploring-Chicago-Crime-with-SQL-An-Analysis-of-Crime-Patterns-and-Trends
+This project uses SQL to analyze crime data in Chicago and identify key patterns and trends. By querying the data, this analysis provides insights into the types of crimes committed, the areas of the city most affected, and the times when crimes are most likely to occur. The project also examines the relationship between crime and other factors.
